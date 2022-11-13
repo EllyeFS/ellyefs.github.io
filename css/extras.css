@@ -1,0 +1,1 @@
+.w3-hover-spin:hover{animation:w3-spin 0.75s infinite linear}@keyframes w3-spin{0%{transform:rotate(0deg)}100%{transform:rotate(359deg)}}
